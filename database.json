@@ -1,0 +1,64 @@
+{
+   "employees":{
+      "jared_gruka":{
+         "12_15_2014":{
+            "unadj_avail":0,
+            "avg_dur":0,
+            "acd_calls":0,
+            "percent_xfer":0,
+            "avail_time":0,
+            "aux_time":0,
+            "Staff Time":0,
+            "RONA":0,
+            "ob_calls":0,
+            "held_calls":0,
+            "hold_time":0,
+            "abn_on_hold":0
+         },
+         "12_16_2014":{
+            "unadj_avail":0,
+            "avg_dur":0,
+            "acd_calls":0,
+            "percent_xfer":0,
+            "avail_time":0,
+            "aux_time":0,
+            "Staff Time":0,
+            "RONA":0,
+            "ob_calls":0,
+            "held_calls":0,
+            "hold_time":0,
+            "abn_on_hold":0
+         }
+      },
+      "matthew_franclemont":{
+         "12_15_2014":{
+            "unadj_avail":0,
+            "avg_dur":0,
+            "acd_calls":0,
+            "percent_xfer":0,
+            "avail_time":0,
+            "aux_time":0,
+            "Staff Time":0,
+            "RONA":0,
+            "ob_calls":0,
+            "held_calls":0,
+            "hold_time":0,
+            "abn_on_hold":0
+         },
+         "12_16_2014":{
+            "unadj_avail":0,
+            "avg_dur":0,
+            "acd_calls":0,
+            "percent_xfer":0,
+            "avail_time":0,
+            "aux_time":0,
+            "Staff Time":0,
+            "RONA":0,
+            "ob_calls":0,
+            "held_calls":0,
+            "hold_time":0,
+            "abn_on_hold":0
+         }
+      }
+   }
+}

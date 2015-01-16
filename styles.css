@@ -1,0 +1,89 @@
+body {
+	background-color: #DC143C;
+	background-image: url("wallhaven-26562.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#bdy {
+	margin-left: auto;
+    margin-right: auto;
+	width:1024px;
+	height: 2048px;
+	background-color:rgba(255,255,255,0.75);
+	margin-top: 0px;
+}
+
+#header {
+	float: left;
+	border: 3px solid #4682B4;
+	border-radius: 10px;
+	padding: 10px;
+	min-width: 998px;
+	max-width: 998px;
+}
+
+#nav {
+	float: left;
+	width: 1010px;
+	border: 3px solid #4682B4;
+	border-radius: 10px;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+.nav_icon{
+	height: 35px;
+	width: 35px;
+	padding: 2px;
+}
+
+#content {
+	float: left;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+.graph_tab {
+	background-color: gray;
+	height: 286px;
+	width: 286px;
+	border: 2px solid #BBB;
+	float: left;
+	border-radius: 10px;
+	padding: 5px;
+	margin-left: 31px;
+	margin-top: 15.5px;
+}
+
+.add_img{
+	height: 286px;
+	width: 286px;
+	opacity: 0.3;
+}
+
+#alertbar {
+	background-color: yellow;
+}
+
+#file_input {
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+#drop_zone {
+    border: 2px dashed #BBB;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: center;
+    color: #BBB;
+}
+
+#footer{
+	float: left;
+	width: 998px;
+	border: 3px solid #4682B4;
+	border-radius: 10px;
+	padding: 10px;
+}
